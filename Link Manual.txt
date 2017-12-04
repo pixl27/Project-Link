@@ -1,0 +1,21 @@
+How to use Link:
+-----Link is developped under Java so you need Java to Run it-----
+Required:
+JDK and JRE
+Step 1 :
+-Compile All .java File with javac Command
+-Run with java Command Fenetrelog.java and FenetreS
+Step 2 :  Link Serveur (FenetreS)
+-click on parcourir to Chose the destination to Store your File
+-Click Show IP to show your Ip 
+-Click START to start the server
+Step 3 : Link Client(Fenetrelog)
+-Use this Login : pix password:pix(Sign in will add later)
+-Click on parcourir to chose the File you d'like to transfer
+-Enter the Server IP on 2e TextField
+-Enter the port : 9001 on 3e TextField
+-Make Sure Server is started and click on Envoyer to Send the File
+-you can Follow the File Transfer Progress on CMD
+
+----Link is still on Alpha so Bug can appear
+----Report Bug on SourceForge
