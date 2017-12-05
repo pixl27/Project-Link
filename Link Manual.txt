@@ -1,3 +1,10 @@
+Update V1.2
+---- New Features ----
+-You can now create your Own Wifi : just Click on creer
+-improves performance
+-Remove useless file
+
+
 How to use Link:
 -----Link is developped under Java so you need Java to Run it-----
 Required:
